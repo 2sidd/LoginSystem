@@ -38,5 +38,6 @@ npm install
 npm start
 ```
 ### To run test
+```
 npm  test
 ```
