@@ -65,8 +65,7 @@ describe('Login Api', () => {
         request(app)
             .post('/user/register')
             .send({
-                username: 'Siddhu4',
-                password: 'test12345dsadasdas'
+                username: 'Siddhu4'
 
             })
             .set('Accept', 'application/json')
